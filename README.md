@@ -1,16 +1,35 @@
-![Front-End Developer](https://scontent.fcgp4-1.fna.fbcdn.net/v/t39.30808-6/272140648_1344204932761328_2469809616800307480_n.jpg?stp=dst-jpg_p960x960&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEgMqi7UtrfZF3VAHWZ-m50jLKzyxogrP-MsrPLGiCs_3KmJKneeJNrSUmbPFl8knO9weGmrgAs7RIWLkLZhWHJ&_nc_ohc=5GlLYW-GNTgAX8BU2rL&tn=KD5QK9csBpqv6C6P&_nc_zt=23&_nc_ht=scontent.fcgp4-1.fna&oh=00_AT-3ODXhHY9GP6oWVjM3I2lnATxtEtKv19tQodmZ5OYC4A&oe=6297C2C0)
+https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif
+<h1 align="center">Hey 👋, I'm Foysal</h1>
+<h3 align="center">I am a Front-End Developer</h3>
 
-### Hi there 👋, I'm Foysal
-#### Front-End Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysal0321&label=Profile%20views&color=0e75b6&style=flat" alt="foysal0321" /> </p>
 
-I'm a Front-End Developer.
+<p align="left"> <a href="https://twitter.com/https://twitter.com/foysal_09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/foysal_09?logo=twitter&style=for-the-badge" alt="https://twitter.com/foysal_09" /></a> </p>
 
-Skills:  REACT / JS / HTML / CSS
+- 🌱 I’m currently learning **Redux and TypeScript**
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
+- 👨‍💻 All of my projects are available at [https://deluxe-raindrop-0ca2ec.netlify.app/](https://deluxe-raindrop-0ca2ec.netlify.app/)
 
+- 💬 Ask me about **React.js**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ foysal0321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mohammad Foysal)  
+- 📫 How to reach me **foysalx4@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/foysal_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/foysal_09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/foysal hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foysal hossain" height="30" width="40" /></a>
+<a href="https://fb.com/mohammad foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad foysal" height="30" width="40" /></a>
+<a href="https://instagram.com/foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foysal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foysal0321&show_icons=true&locale=en&layout=compact" alt="foysal0321" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foysal0321&show_icons=true&locale=en" alt="foysal0321" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal0321&" alt="foysal0321" /></p>
+
 
 
