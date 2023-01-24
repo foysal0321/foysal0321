@@ -1,5 +1,7 @@
 <img align="right" alt="Coding" width="1200" height="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <br/>
+<br></br>
+
 <h1 align="">Hey 👋, I'm Foysal</h1>
 <h3 align="">I'm a Front-End Web Developer</h3>
 
@@ -40,6 +42,8 @@ I have completed more than 14 projects.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foysal0321&show_icons=true&locale=en&layout=compact" alt="foysal0321" /></p>
  <br/>
+ <br></br>
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foysal0321&show_icons=true&locale=en" alt="foysal0321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal0321&" alt="foysal0321" /></p>
