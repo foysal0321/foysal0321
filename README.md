@@ -14,8 +14,11 @@ JavaScript / TypeScript, HTML and CSS related.
 <a href="#" target="_blank">
 <img src=https://camo.githubusercontent.com/076c6bee7e34877337340b4a2de43c0485c0f425a00a549518b98e75f2acd3aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742e6a732d3030383143423f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642 style="margin-bottom: 5px;" />
 </a>
+   <a href="#" target="_blank">
+<img src=https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white />
+</a>
   <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white />
 </a>
 <a href="#" target="_blank">
 <img src=https://camo.githubusercontent.com/5c2af525789fe1731755aa21af34a1bcfdd04108d666651c8280f40bcbc4ea03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 style="margin-bottom: 5px;" />
