@@ -18,7 +18,7 @@ JavaScript / TypeScript, HTML and CSS related.
 <img src=https://img.shields.io/badge/-Redux-764ABC? style="margin-bottom: 5px;" />
 </a>
   <a href="#" target="_blank">
-<img src=https://camo.githubusercontent.com/168baf2cff0bce759a94fe530e76160039afbffee9b015f3c6fa6dc4d3244eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465 style="margin-bottom: 5px;" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </a>
 <a href="#" target="_blank">
 <img src=https://camo.githubusercontent.com/5c2af525789fe1731755aa21af34a1bcfdd04108d666651c8280f40bcbc4ea03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 style="margin-bottom: 5px;" />
