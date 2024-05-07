@@ -1,7 +1,7 @@
 
 <h1 align="">Hey 👋, I'm Foysal</h1>
 I'm a Frontend Developer with experience building websites, </br>
-Right now you can find me hacking away primarily with React, Next Js, Redux, Node, Express, MongoDB, Firebase authentication, and in general anything
+Right now you can find me hacking away primarily with React, Next Js, Redux, Node, Express, MongoDB, Firebase authentication </br> and in general anything
 JavaScript / TypeScript, HTML and CSS related. </br>
 I've worked with my personal projets over the years, I specialize in developing web site/apps.
 </br> </br>
